@@ -1,19 +1,30 @@
 ## Welcome to Saket's webpage
+### Aspiring Computer Scientist. Data Science Enthusiast. Java developer. 
 
-You can use the [editor on GitHub](https://github.com/saketsingh0102/Course-webdev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello there, I am Saket Singh. This is my portfolio, feel free to go through all my projects.
+### About my projects.
+Data Science Projects have been the core as  i have worked on multiple projects of the domain.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **Data Science Projects:**
 
-### About Me
+###Dementia Prediction Model:
 
-This would be a an elaborate description of myself
+### Pneumonia Classification:
+
+## JAVA Applications:
+
+### Travel Application:
+
+## Python Project:
+
+### OS Simulation Project: 
+Link: https://github.com/saketsingh0102/Operating-System-Phase-I.git
+
+
+
 
 ```markdown
 Syntax highlighted code block
-
-# Projects
-## 
-### Header 3
 
 - Bulleted
 - List
